@@ -28,3 +28,6 @@ https://www.youtube.com/watch?v=i_qE1iAmjFg
 
 jQuery Antipatterns
 http://www.paulirish.com/2009/perf/
+
+A Comparison of Angular, Backbone, CanJS and Ember
+https://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
