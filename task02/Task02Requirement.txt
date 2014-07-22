@@ -19,4 +19,14 @@ div.normal a { <awesone style here> }
 
 5. Fork the repository https://github.com/tusharvjoshi/frontendninja in your account using the Fork button on that repository.
 
-6. Clone the repository frontendninja which will be in your account, and make the changes to the file and commit them to your own repository.
+6. Clone the repository frontendninja which will be in your account
+
+7. Make a folder named final in the task02 folder and add copy all the files in task02 to the final folder
+
+8. Make the changes to the files in final folder and commit them to your own repository.
+
+9. Command sequence:
+
+git add final
+git commit -m "Adding final files to task02"
+git push
