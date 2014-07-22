@@ -21,12 +21,20 @@ div.normal a { <awesone style here> }
 
 6. Clone the repository frontendninja which will be in your account
 
-7. Make a folder named final in the task02 folder and add copy all the files in task02 to the final folder
+7. Make a folder named final in the task02 folder and add copy all the files in task02 to the final folder.   The final folder shall look like frontendninja/task02/final
 
 8. Make the changes to the files in final folder and commit them to your own repository.
 
 9. Command sequence:
 
+cd myprojects
+git clone https://github.com/tusharvjoshi/frontendninja
+cd frontendninja\task02
+mkdir final
+<Copy all files of task02 to final folder>
+cd final
+<make your awesome changes according to requiements>
+cd .. 
 git add final
 git commit -m "Adding final files to task02"
 git push
